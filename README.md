@@ -1,2 +1,4 @@
 # Visual-Prompt-Studio
-This is my prompt portfolio for my Art Appreciation Class
+**Description** This is my prompt portfolio for my Art Appreciation Class
+**Name** Daniel Lopez
+**Course** Art Appreciation 
